@@ -33,7 +33,7 @@
 		CE05D79D29355CC80021EF6F /* RatesData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RatesData.swift; path = ../../../../../var/folders/bk/dw0m6hkj0td3s377hnwm5v4c0000gn/T/ru.keepcoder.Telegram/RatesData.swift; sourceTree = "<group>"; };
 		CE05D79F29355CD10021EF6F /* SampleTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SampleTableViewController.swift; path = ../../../../../var/folders/bk/dw0m6hkj0td3s377hnwm5v4c0000gn/T/ru.keepcoder.Telegram/SampleTableViewController.swift; sourceTree = "<group>"; };
 		CE05D7A129355CD80021EF6F /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = .gitignore; path = ../../../../var/folders/bk/dw0m6hkj0td3s377hnwm5v4c0000gn/T/ru.keepcoder.Telegram/.gitignore; sourceTree = "<group>"; };
-		CE05D7A3293560680021EF6F /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
+		CE05D7A3293560680021EF6F /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		D3339E1D8CFEFE16A15511CB /* Pods_alamofireApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_alamofireApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDF2D7F24475E707F95732FA /* Pods-alamofireApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-alamofireApp.debug.xcconfig"; path = "Target Support Files/Pods-alamofireApp/Pods-alamofireApp.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -56,7 +56,6 @@
 				DDF2D7F24475E707F95732FA /* Pods-alamofireApp.debug.xcconfig */,
 				80F58C595BBBB4F40E5C2F95 /* Pods-alamofireApp.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
